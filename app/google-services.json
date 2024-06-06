@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912437736763",
+    "firebase_url": "https://snap2text-8575c-default-rtdb.firebaseio.com",
+    "project_id": "snap2text-8575c",
+    "storage_bucket": "snap2text-8575c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912437736763:android:5299d2f957a6c7568cb31e",
+        "android_client_info": {
+          "package_name": "com.example.snap2text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912437736763-m0vdgtdc9tha1jptu76qbj0l2qlho3b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snap2text",
+            "certificate_hash": "7bd7a8080bbf5a4c47b3b070a79e1b27b78c5d5c"
+          }
+        },
+        {
+          "client_id": "912437736763-7qhutjbrmat3ini9k29b9ll9mmsuo7rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFEgXdd8c4d0iPfX9bV7Lr2biYD18Fwro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912437736763-7qhutjbrmat3ini9k29b9ll9mmsuo7rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

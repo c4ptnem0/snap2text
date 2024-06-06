@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_snap">
+
+    <fragment
+        android:id="@+id/nav_snap"
+        android:name="com.example.snap2text.ui.snap2Text.Snap2TextFragment"
+        android:label="@string/menu_snap"
+        tools:layout="@layout/fragment_snap" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.example.snap2text.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.example.snap2text.ui.logout.LogoutFragment"
+        android:label="@string/menu_logout"
+        tools:layout="@layout/fragment_slideshow" />
+</navigation>
